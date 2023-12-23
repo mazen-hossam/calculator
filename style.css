@@ -1,0 +1,32 @@
+.body{
+    background-color: #212834;
+}
+.btn{
+   width: 5rem;
+   box-shadow: 0px 1px 9px rgba(113, 115, 119, 0.5);
+   
+}
+.zero{
+    width: 10.3rem;
+}
+.inputnumber{
+    width: 20.9rem;
+    height: 5rem;
+    color: white;
+}
+.x{
+    border: 2px solid #717377;
+    padding: 20px;
+    border-radius: 16%;
+    box-shadow: 0px 3px 15px rgba(113, 115, 119, 0.5);
+}
+
+.inputnumber2{
+    border: 0;
+    outline: 0;
+    cursor: pointer;
+    background-color: transparent;
+    margin-top: -2rem;
+    display: block;
+    float: left;
+}
